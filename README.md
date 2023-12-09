@@ -1,8 +1,8 @@
 # 🏁 Entrega: Kenzie Hub
 
-### :date: **Período do Projeto:** Módulo 3 - Semana 4
-### :iphone: **Mobile First =** True
-#### :computer: Acesse o projeto em funcionamento: [CLIQUE AQUI](https://kenzie-hub-react-red.vercel.app) 
+### 📅: **Período do Projeto:** Módulo 3 - Semana 4
+### 📱: **Mobile First =** True
+#### 💻: **Acesse o projeto em funcionamento**: [CLIQUE AQUI](https://kenzie-hub-react-red.vercel.app) 
 
 ## **Descrição**
 ##### Este desenvolvimento foi feito com o React. A aplicação simula um cadastro de rede social, permitindo criar uma conta, fazer login e ver a dashboard do usuário.
