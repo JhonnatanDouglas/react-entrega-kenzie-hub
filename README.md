@@ -1,16 +1,16 @@
-# 🏁 Entrega: Kenzie Hub
+# 🏁 Delivery: Kenzie Hub
 
-### 📅 **Período do Projeto:** Módulo 3 - Semana 4
+### 📅 **Project Period:** Module 3 - Week 4
 ### 📱 **Mobile First =** True
-#### 💻 **Acesse o projeto em funcionamento**: [CLIQUE AQUI](https://kenzie-hub-react-red.vercel.app) 
+#### 💻 **Access the project live**: [CLICK HERE](https://kenzie-hub-react-red.vercel.app) 
 
-## **Descrição**
-##### Este desenvolvimento foi feito com o React. A aplicação simula um cadastro de rede social, permitindo criar uma conta, fazer login e ver a dashboard do usuário.
+## **Description**
+##### This development was done with React. The application simulates a social network registration, allowing users to create an account, log in, and view their dashboard.
 
-##### O principal objetivo é exercitar o que foi aprendido durante a Semana 4 do curso da Kenzie. Utilizando bibliotecas como styled-components, axios, react-icons, react-hook-form, react-router-dom, react-toastify e zod. 
-##### Também é possível, após fazer o Login e acessar a página de Dashboard, criar um Card informando a tecnologia que você possui conhecimento e o nível de conhecimento que você tem dela. Após criar o card, você também pode editá-lo para mudar o nível de conhecimento da tecnologia e, se quiser, até mesmo excluí-lo.
+##### The main objective is to practice what was learned during Week 4 of the Kenzie course. It utilizes libraries like styled-components, axios, react-icons, react-hook-form, react-router-dom, react-toastify, and zod. 
+##### After logging in and accessing the Dashboard page, users can create a Card detailing the technology they know and their level of expertise in it. Once the card is created, users can also edit it to change the level of knowledge or delete it if they wish.
 
-## Tecnologias utilizadas
+## Technologies used
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-icon">
@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="css-styled-components-icon">
 </div>
 
-###### Este projeto foi apresentado pela Kenzie Academy Brasil como uma entrega para ser realizada durante uma semana específica do curso.
-> Este período está descrito em **"Período do Projeto"**.
+###### This project was presented by Kenzie Academy Brasil as a delivery to be completed during a specific week of the course.
+> The period is described in **"Project Period"**.
+
 ##
-##### :white_check_mark: Autorizado o modo público do projeto pela Kenzie Academy Brasil.
+##### :white_check_mark: Public mode of the project authorized by Kenzie Academy Brasil.
